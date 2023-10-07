@@ -19,7 +19,7 @@ CFP?
 4. If `yes` to #3, what topics are you considering?
 > (text field)
 
-6. Rank your preference for Track availability:
+5. Rank your preference for Track availability:
 > - Every day of the conference, same as the Perl and Raku tracks
 > - Only on some of the days
 > - Limited to one day
