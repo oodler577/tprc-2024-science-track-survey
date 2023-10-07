@@ -16,7 +16,7 @@ CFP?
 > - yes
 > - no
 
-4. If `yes` to #2, what topics are you considering?
+4. If `yes` to #3, what topics are you considering?
 > (text field)
 
 6. Rank your preference for Track availability:
